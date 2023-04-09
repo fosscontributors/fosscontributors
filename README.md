@@ -1,2 +1,2 @@
-# community
-Community governed contributor group that helps enable and sustain working groups, official events, meetups, mentorship programs, diversity initiatives, contributor outreach, and other ways of growing community.
+# Community Contributor Group
+Self governed contributor group focusing on enabling and sustaining open source projects and communities.
